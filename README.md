@@ -12,7 +12,7 @@ from ideas and designs to fully working digital products.
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ar4i23-181717?style=for-the-badge&logo=github)](https://github.com/Ar4i23)
-[![Profile](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge)](https://github.com/Ar4i23)
+
 
 </div>
 
