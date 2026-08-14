@@ -1,153 +1,286 @@
-<div align="center">
+# 👋 Hi, I'm Arthur
 
-👋 Привет, я Артур
+### Frontend / Web Developer
 
-Frontend / Web Developer
+**JavaScript · React · TypeScript · Node.js · Python**
 
-Создаю современные веб-интерфейсы, адаптивные сайты и интерактивные приложения.
+I build modern, responsive and interactive web applications
+from ideas and designs to fully working digital products.
 
-HTML · CSS · JavaScript · React · Python · API
+---
 
+## 🌐 My Portfolio
 
+My personal portfolio website where I showcase my projects,
+skills, experience and current development direction.
 
+### Frontend / Web Developer
 
-</div>
+Modern interfaces · Responsive Design · React · JavaScript · Python · APIs
 
-🖥️ Моё портфолио
+🔗 [**Open Portfolio →**](https://ar4i23.github.io/ar4i23-portfolio/)
 
-Мой личный сайт — место, где собраны проекты, навыки и направления, в которых я развиваюсь.
+---
 
-Frontend / Web Development · Responsive Design · React · JavaScript · Python · API · Automation
+## 👨‍💻 About Me
 
+I'm a **Frontend / Web Developer** focused on building modern, responsive and user-friendly web interfaces.
 
+I enjoy taking an idea or design and turning it into a real, working product — from the first HTML structure to interactive JavaScript functionality and deployment.
 
-🚀 Избранные проекты
+My current focus is expanding from frontend development into **full-stack development, Python, API integrations and AI-powered applications.**
 
-🛞 SHINTORG SERVICE
+### What I care about
 
-Современный сайт автомобильного сервиса с услугами, гарантиями, отзывами и формой записи.
+- 🎨 Clean and accurate UI implementation
+- 📱 Responsive design
+- ⚡ Interactive user experiences
+- 🧩 Modular and maintainable code
+- ♿ Accessibility
+- 🚀 Performance
+- 🔌 API integrations
+- 🔐 Secure application architecture
+- 📈 Continuous improvement
 
-Стек: HTML · CSS · JavaScript · Responsive Design
+---
 
-GitHub · Live Demo
+# 🛠 Tech Stack
 
-🍔 Space Burger
+### Frontend
 
-Космический сайт-магазин бургерной с каталогом, категориями, корзиной, формой заказа и интерактивным интерфейсом.
+`HTML` `CSS` `JavaScript` `React` `TypeScript`
 
-Стек: HTML · CSS · JavaScript · LocalStorage
+### Backend & APIs
 
-GitHub · Live Demo
+`Node.js` `Express` `REST API` `Python` `MongoDB`
 
-✨ Lash Studio
+### Tools
 
-Editorial-style сайт студии наращивания ресниц с адаптивной вёрсткой, портфолио, услугами, отзывами и формой записи.
+`Git` `GitHub` `VS Code` `Figma`
 
-Стек: HTML · CSS · JavaScript · Responsive Design
+### Currently Exploring
 
-GitHub · Live Demo
+`Python` `Async Programming` `AI` `LLM APIs` `Automation`
 
-🏙️ Mesto — React
+---
 
-Одностраничное React-приложение для работы с профилем пользователя, фотографиями и карточками мест.
+# ⭐ Featured Projects
 
-Стек: React · JavaScript · CSS · HTML · API · Authentication
+## 🌐 Portfolio Website
 
-GitHub · Live Demo
+### Personal Developer Portfolio
 
-🎬 Movies Explorer API
+My personal portfolio website designed to present my projects, skills and development direction in one place.
 
-Backend для приложения Movies Explorer: REST API, авторизация пользователей, JWT, MongoDB, middleware и обработка ошибок.
+**Key features**
 
-Стек: Node.js · Express · MongoDB · JWT · REST API
+- Responsive design
+- Light / Dark theme
+- RU / EN language switch
+- Modern adaptive interface
+- Project showcase
+- Interactive navigation
+- SEO-oriented markup
+- Accessibility improvements
+- Responsive images
+- Modular project architecture
+- GitHub integration
 
-GitHub
+**Stack**
 
-🧩 Что я умею
+`HTML` `CSS` `JavaScript` `Responsive Design` `BEM`
 
-Создавать адаптивные сайты и веб-приложения
+🔗 [**Live Website →**](https://ar4i23.github.io/ar4i23-portfolio/)
 
-Разрабатывать интерфейсы на JavaScript и React
+🔗 [**View Repository →**](https://github.com/Ar4i23/ar4i23-portfolio)
 
-Работать с REST API и пользовательскими формами
+---
 
-Реализовывать авторизацию и валидацию данных
+## 🚗 Shintorg Service
 
-Использовать БЭМ и компонентный подход
+### Commercial Automotive Service Website
 
-Работать с Git и GitHub
+A complete responsive website developed for an automotive service business.
 
-Писать Python-скрипты и автоматизацию
+**Key features**
 
-Интегрировать API и внешние сервисы
+- Responsive design
+- BEM methodology
+- Modular JavaScript
+- Service catalog
+- Booking form
+- Interactive calendar
+- Telegram integration
+- Form validation
+- Reviews
+- Mobile navigation
+- Accessibility improvements
+- Reduced-motion support
 
-🛠️ Tech Stack
+**Stack**
 
-Frontend: HTML · CSS · JavaScript · React
+`HTML` `CSS` `JavaScript` `BEM` `ES Modules`
 
-Backend: Node.js · Express · REST API · MongoDB · JWT
+🔗 [**View Repository →**](https://github.com/Ar4i23/shintorg_service)
 
-Automation: Python · API
+---
 
-Tools: Git · GitHub · VS Code
+## 🚘 Autosalon
 
-📌 Основные направления
+### Interactive Automotive Dealership Website
 
-Направление
+A modern responsive automotive interface with dynamic filtering and interactive UI functionality.
 
-Технологии
+**Key features**
 
-Frontend
+- Vehicle catalog
+- Filtering
+- Trade-in form
+- Dark / Light theme
+- LocalStorage
+- Form validation
+- Phone input mask
+- Animations
+- Responsive images
+- Accessibility
+- SEO-oriented markup
 
-HTML, CSS, JavaScript, React
+**Stack**
 
-UI / UX
+`HTML` `CSS` `JavaScript`
 
-Responsive Design, BEM, Accessibility
+🔗 [**View Repository →**](https://github.com/Ar4i23/autosalon)
 
-Backend
+---
 
-Node.js, Express, REST API
+## 👁 Lash Studio
 
-Database
+### Beauty Studio Web Application
 
-MongoDB
+A modern responsive website with a modular JavaScript architecture.
 
-Authentication
+**Key features**
 
-JWT
+- Service catalog
+- Dynamic pricing
+- Portfolio
+- Modal windows
+- Forms
+- Tabs
+- Accordion
+- Carousel
+- Responsive layout
+- Modular JavaScript architecture
 
-Automation
+**Stack**
 
-Python, API
+`HTML` `CSS` `JavaScript` `ES Modules`
 
-Tools
+🔗 [**View Repository →**](https://github.com/Ar4i23/lash_studio)
 
-Git, GitHub, VS Code
+---
 
-📈 GitHub
+## 🍔 Space Burger
 
-<div align="center">
+### Interactive Restaurant Web Application
 
+A JavaScript-based application with a dynamic product catalog and shopping cart.
 
+**Key features**
 
+- Product catalog
+- Filtering
+- Shopping cart
+- Quantity management
+- Dynamic total calculation
+- LocalStorage
+- Form validation
+- Toast notifications
+- Responsive design
 
+**Stack**
 
-</div>
+`HTML` `CSS` `JavaScript`
 
-🎯 Сейчас развиваюсь в
+🔗 [**View Repository →**](https://github.com/Ar4i23/space_burger)
 
-Frontend → React → JavaScript → Python → API → Automation → AI
+---
 
-Моя цель — не просто писать код, а создавать проекты, которыми удобно пользоваться и которые решают реальные задачи.
+## ⚛️ Mesto — Full Stack
 
-📫 Контакты
+### React + Node.js Application
 
+A full-stack social application built with React and Node.js.
 
+**Key features**
 
+- React
+- User authentication
+- Registration
+- REST API
+- User profiles
+- Cards
+- Likes
+- Form validation
+- Backend API
+- Database integration
+- CI/CD workflow
 
-<div align="center">
+**Stack**
 
-Спасибо, что заглянули в мой профиль! 👋
+`React` `JavaScript` `Node.js` `Express` `MongoDB` `REST API`
 
-</div>
+🔗 [**View Repository →**](https://github.com/Ar4i23/react-mesto-api-full-gha)
+
+---
+
+# 🎬 Movies Explorer API
+
+### Backend REST API
+
+A backend API for the Movies Explorer application with user authentication, movie management and database integration.
+
+**Key features**
+
+- REST API
+- User registration
+- Authentication
+- JWT
+- Movie management
+- Saved movies
+- MongoDB
+- Mongoose
+- Request validation
+- Error handling
+- Protected routes
+
+**Stack**
+
+`Node.js` `Express` `MongoDB` `Mongoose` `JWT` `REST API`
+
+🔗 [**View Repository →**](https://github.com/Ar4i23/movies-explorer-api)
+
+---
+
+# 🤖 Current Direction
+
+I'm currently expanding my development skills beyond frontend.
+
+### Areas I'm working with
+
+```text
+Python
+   ↓
+Async programming
+   ↓
+REST APIs
+   ↓
+Telegram Bot API
+   ↓
+External API integrations
+   ↓
+Payment systems
+   ↓
+AI / LLM integrations
+   ↓
+Full-stack applications
