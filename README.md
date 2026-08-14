@@ -1,249 +1,153 @@
 <div align="center">
 
-# 👋 Hi, I'm Arthur
+👋 Привет, я Артур
 
-### Frontend / Web Developer
+Frontend / Web Developer
 
-**JavaScript · React · TypeScript · Node.js · Python**
+Создаю современные веб-интерфейсы, адаптивные сайты и интерактивные приложения.
 
-I build modern, responsive and interactive web applications  
-from ideas and designs to fully working digital products.
+HTML · CSS · JavaScript · React · Python · API
 
-<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ar4i23-181717?style=for-the-badge&logo=github)](https://github.com/Ar4i23)
 
 
 </div>
 
----
+🖥️ Моё портфолио
 
-## 👨‍💻 About Me
+Мой личный сайт — место, где собраны проекты, навыки и направления, в которых я развиваюсь.
 
-I'm a **Frontend / Web Developer** focused on building modern,
-responsive and user-friendly web interfaces.
+Frontend / Web Development · Responsive Design · React · JavaScript · Python · API · Automation
 
-I enjoy taking an idea or design and turning it into a real,
-working product — from the first HTML structure to interactive
-JavaScript functionality and deployment.
 
-My current focus is expanding from frontend development into
-**full-stack development, Python, API integrations and AI-powered applications.**
 
-### What I care about
+🚀 Избранные проекты
 
-- 🎨 Clean and accurate UI implementation
-- 📱 Responsive design
-- ⚡ Interactive user experiences
-- 🧩 Modular and maintainable code
-- ♿ Accessibility
-- 🚀 Performance
-- 🔌 API integrations
-- 🔐 Secure application architecture
-- 📈 Continuous improvement
+🛞 SHINTORG SERVICE
 
----
+Современный сайт автомобильного сервиса с услугами, гарантиями, отзывами и формой записи.
 
-# 🛠 Tech Stack
+Стек: HTML · CSS · JavaScript · Responsive Design
 
-### Frontend
+GitHub · Live Demo
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+🍔 Space Burger
 
-### Backend & APIs
+Космический сайт-магазин бургерной с каталогом, категориями, корзиной, формой заказа и интерактивным интерфейсом.
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-</p>
+Стек: HTML · CSS · JavaScript · LocalStorage
 
-### Tools
+GitHub · Live Demo
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-</p>
+✨ Lash Studio
 
-### Currently Exploring
+Editorial-style сайт студии наращивания ресниц с адаптивной вёрсткой, портфолио, услугами, отзывами и формой записи.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+Стек: HTML · CSS · JavaScript · Responsive Design
 
----
+GitHub · Live Demo
 
-# ⭐ Featured Projects
+🏙️ Mesto — React
 
-## 🚗 Shintorg Service
+Одностраничное React-приложение для работы с профилем пользователя, фотографиями и карточками мест.
 
-### Commercial Automotive Service Website
+Стек: React · JavaScript · CSS · HTML · API · Authentication
 
-A complete responsive website developed for an automotive service business.
+GitHub · Live Demo
 
-**Key features**
+🎬 Movies Explorer API
 
-- Responsive design
-- BEM methodology
-- Modular JavaScript
-- Service catalog
-- Booking form
-- Interactive calendar
-- Telegram integration
-- Form validation
-- Reviews
-- Mobile navigation
-- Accessibility improvements
-- Reduced-motion support
+Backend для приложения Movies Explorer: REST API, авторизация пользователей, JWT, MongoDB, middleware и обработка ошибок.
 
-**Stack**
+Стек: Node.js · Express · MongoDB · JWT · REST API
 
-`HTML` `CSS` `JavaScript` `BEM` `ES Modules`
+GitHub
 
-🔗 **[View Repository →](https://github.com/Ar4i23/shintorg_service)**
+🧩 Что я умею
 
----
+Создавать адаптивные сайты и веб-приложения
 
-## 🚘 Autosalon
+Разрабатывать интерфейсы на JavaScript и React
 
-### Interactive Automotive Dealership Website
+Работать с REST API и пользовательскими формами
 
-A modern responsive automotive interface with dynamic filtering
-and interactive UI functionality.
+Реализовывать авторизацию и валидацию данных
 
-**Key features**
+Использовать БЭМ и компонентный подход
 
-- Vehicle catalog
-- Filtering
-- Trade-in form
-- Dark / Light theme
-- LocalStorage
-- Form validation
-- Phone input mask
-- Animations
-- Responsive images
-- Accessibility
-- SEO-oriented markup
+Работать с Git и GitHub
 
-**Stack**
+Писать Python-скрипты и автоматизацию
 
-`HTML` `CSS` `JavaScript`
+Интегрировать API и внешние сервисы
 
-🔗 **[View Repository →](https://github.com/Ar4i23/autosalon)**
+🛠️ Tech Stack
 
----
+Frontend: HTML · CSS · JavaScript · React
 
-## 👁 Lash Studio
+Backend: Node.js · Express · REST API · MongoDB · JWT
 
-### Beauty Studio Web Application
+Automation: Python · API
 
-A modern responsive website with a modular JavaScript architecture.
+Tools: Git · GitHub · VS Code
 
-**Key features**
+📌 Основные направления
 
-- Service catalog
-- Dynamic pricing
-- Portfolio
-- Modal windows
-- Forms
-- Tabs
-- Accordion
-- Carousel
-- Responsive layout
-- Modular JavaScript architecture
+Направление
 
-**Stack**
+Технологии
 
-`HTML` `CSS` `JavaScript` `ES Modules`
+Frontend
 
-🔗 **[View Repository →](https://github.com/Ar4i23/lash_studio)**
+HTML, CSS, JavaScript, React
 
----
+UI / UX
 
-## 🍔 Space Burger
+Responsive Design, BEM, Accessibility
 
-### Interactive Restaurant Web Application
+Backend
 
-A JavaScript-based application with a dynamic product catalog
-and shopping cart.
+Node.js, Express, REST API
 
-**Key features**
+Database
 
-- Product catalog
-- Filtering
-- Shopping cart
-- Quantity management
-- Dynamic total calculation
-- LocalStorage
-- Form validation
-- Toast notifications
-- Responsive design
+MongoDB
 
-**Stack**
+Authentication
 
-`HTML` `CSS` `JavaScript`
+JWT
 
-🔗 **[View Repository →](https://github.com/Ar4i23/space_burger)**
+Automation
 
----
+Python, API
 
-## ⚛️ Mesto — Full Stack
+Tools
 
-### React + Node.js Application
+Git, GitHub, VS Code
 
-A full-stack social application built with React and Node.js.
+📈 GitHub
 
-**Key features**
+<div align="center">
 
-- React
-- User authentication
-- Registration
-- REST API
-- User profiles
-- Cards
-- Likes
-- Form validation
-- Backend API
-- Database integration
-- CI/CD workflow
 
-**Stack**
 
-`React` `JavaScript` `Node.js` `Express` `MongoDB` `REST API`
 
-🔗 **[View Repository →](https://github.com/Ar4i23/react-mesto-api-full-gha)**
 
----
+</div>
 
-# 🤖 Current Direction
+🎯 Сейчас развиваюсь в
 
-I'm currently expanding my development skills beyond frontend.
+Frontend → React → JavaScript → Python → API → Automation → AI
 
-### Areas I'm working with
+Моя цель — не просто писать код, а создавать проекты, которыми удобно пользоваться и которые решают реальные задачи.
 
-```text
-Python
-   ↓
-Async programming
-   ↓
-REST APIs
-   ↓
-Telegram Bot API
-   ↓
-External API integrations
-   ↓
-Payment systems
-   ↓
-AI / LLM integrations
-   ↓
-Full-stack applications
+📫 Контакты
+
+
+
+
+<div align="center">
+
+Спасибо, что заглянули в мой профиль! 👋
+
+</div>
